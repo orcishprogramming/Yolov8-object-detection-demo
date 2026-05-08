@@ -56,11 +56,4 @@ The detected objects are displayed with bounding boxes and labels.
 
 
 
-\## Installation
-
-
-
-```bash
-
-pip install -r requirements.txt
 
